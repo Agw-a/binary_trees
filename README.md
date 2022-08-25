@@ -1,2 +1,2 @@
 # binary_trees
-##Tree data structures
+Tree data structures
